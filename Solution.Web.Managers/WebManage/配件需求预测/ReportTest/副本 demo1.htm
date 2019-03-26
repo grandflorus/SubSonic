@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>  
+    <head>
+    <meta charset="utf-8" />
+    </head>
+    <body>
+        <div id="main" style=" height:400px;"></div>
+         <!--<script src="http://echarts.baidu.com/build/dist/echarts.js"></script>-->
+          <script type="text/javascript" src="echarts.js"></script>
+          <script type="text/javascript" src="ajax.js"></script>
+    <script type="text/javascript">
+        // 路径配置
+        require.config({
+            paths: {
+                echarts: 'http://echarts.baidu.com/build/dist'
+            }
+        });
+          // 使用
+        require(
+            [
+                'echarts',
+                'echarts/chart/bar' // 使用柱状图就加载bar模块，按需加载
+            ],
+            function (ec) {
+                // 基于准备好的dom，初始化echarts图表
+                var myChart = ec.init(document.getElementById('main'));
+
+                var option = {
+                    tooltip: {
+                        show: true
+                    },
+                    legend: {
+                        data: ['Actual', 'Budget']
+                    },
+                    xAxis: [
+                        {
+                            type: 'category',
+                            data: ['一月', '二月', '三月', '四月', '五月', '六月', '七月', '八月', '九月', '十月', '十一月', '十二月']
+                        }
+                    ],
+                    yAxis: [
+                        {
+                            type: 'value'
+                        }
+                    ],
+                    series: [
+                       { "name": "actual", "type": "bar", "data": [26061649.1, 26161649.41, 21782199.14, 27749708.51, 8819500.47, 27711342.26, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0] } ,
+                         {
+                             'name': 'Budget',
+                             'type': 'bar',
+                             'data': [28176503.36, 26161649.41, 21782199.14, 27749708.51, 8819500.47, 27711342.26, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, ]
+                         }
+                    ]
+                     };
+                // 为echarts对象加载数据 
+                myChart.setOption(option);
+            }
+        );
+    </script>
+    </body>  
+</html>  

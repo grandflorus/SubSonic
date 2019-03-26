@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\临时文件夹\Web" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Solution.Web.Managers.pdb" publishTime="06/25/2014 11:54:13" />
+    <file relUrl="bin/DotNet.Utilities.dll" publishTime="06/25/2014 11:54:12" />
+    <file relUrl="WebManage/Systems/Security/ErrorLogList.aspx" publishTime="06/22/2014 22:49:34" />
+    <file relUrl="Configs/log4net.config" publishTime="06/25/2014 10:53:18" />
+    <file relUrl="bin/MySql.Data.dll" publishTime="08/17/2013 08:27:01" />
+    <file relUrl="WebManage/Systems/Security/OnlineUsersList.aspx" publishTime="06/23/2014 12:43:49" />
+    <file relUrl="Global.asax" publishTime="03/13/2014 17:44:41" />
+    <file relUrl="bin/SubSonic.Core.dll" publishTime="06/25/2014 11:54:11" />
+    <file relUrl="bin/log4net.dll" publishTime="03/31/2013 14:33:55" />
+    <file relUrl="WebManage/Systems/Security/UseLogList.aspx" publishTime="06/22/2014 22:30:48" />
+    <file relUrl="bin/SubSonic.Core.xml" publishTime="06/25/2014 11:54:11" />
+    <file relUrl="WebManage/Systems/Powers/PositionEdit.aspx" publishTime="06/22/2014 13:45:00" />
+    <file relUrl="WebManage/Systems/Powers/MenuInfoList.aspx" publishTime="06/21/2014 11:09:02" />
+    <file relUrl="WebManage/Css/login.css" publishTime="06/23/2014 22:43:26" />
+    <file relUrl="WebManage/Systems/Powers/MenuInfoEdit.aspx" publishTime="06/21/2014 10:48:09" />
+    <file relUrl="WebManage/Systems/Set/WebConfigSet.aspx" publishTime="06/25/2014 10:13:31" />
+    <file relUrl="WebManage/Systems/Powers/BranchList.aspx" publishTime="06/21/2014 21:46:26" />
+    <file relUrl="WebManage/Systems/Powers/PositionList.aspx" publishTime="06/22/2014 21:35:41" />
+    <file relUrl="WebManage/Login.aspx" publishTime="06/23/2014 22:39:01" />
+    <file relUrl="bin/FineUI.dll" publishTime="06/12/2014 15:46:54" />
+    <file relUrl="bin/DotNet.Utilities.pdb" publishTime="06/25/2014 11:54:12" />
+    <file relUrl="bin/ICSharpCode.SharpZipLib.dll" publishTime="08/17/2013 08:27:01" />
+    <file relUrl="bin/Solution.Logic.Managers.dll" publishTime="06/25/2014 11:54:13" />
+    <file relUrl="bin/Castle.Core.dll" publishTime="08/01/2013 09:34:59" />
+    <file relUrl="bin/SubSonic.Core.pdb" publishTime="06/25/2014 11:54:11" />
+    <file relUrl="bin/Solution.DataAccess.pdb" publishTime="06/25/2014 11:54:12" />
+    <file relUrl="WebManage/Systems/Powers/BranchEdit.aspx" publishTime="06/21/2014 21:47:24" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="08/01/2013 09:34:59" />
+    <file relUrl="WebManage/Systems/Powers/PagePowerSignList.aspx" publishTime="06/21/2014 17:34:25" />
+    <file relUrl="WebManage/Main.aspx" publishTime="06/21/2014 10:26:39" />
+    <file relUrl="bin/Solution.Web.Managers.dll" publishTime="06/25/2014 11:54:13" />
+    <file relUrl="WebManage/Help/wannianli.htm" publishTime="05/10/2012 10:27:02" />
+    <file relUrl="WebManage/Systems/Security/LoginLogList.aspx" publishTime="06/22/2014 22:30:36" />
+    <file relUrl="bin/Solution.Logic.Managers.pdb" publishTime="06/25/2014 11:54:13" />
+    <file relUrl="bin/Maticsoft.DBUtility.dll" publishTime="08/17/2013 08:27:01" />
+    <file relUrl="bin/DotNet.Utilities.xml" publishTime="06/25/2014 11:54:12" />
+    <file relUrl="Web.config" publishTime="06/25/2014 11:54:24" />
+    <file relUrl="WebManage/Application/Vcode.ashx" publishTime="06/04/2014 22:32:02" />
+    <file relUrl="WebManage/Systems/Powers/PagePowerSignPublicEdit.aspx" publishTime="06/21/2014 11:01:59" />
+    <file relUrl="WebManage/Systems/Powers/PagePowerSignPublicList.aspx" publishTime="06/21/2014 14:11:13" />
+    <file relUrl="bin/Solution.DataAccess.dll" publishTime="06/25/2014 11:54:12" />
+  </publishProfile>
+</publishData>

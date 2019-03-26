@@ -1,0 +1,70 @@
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.XML
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\bin\Debug\FineUI.dll
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\bin\Debug\Maticsoft.DBUtility.dll
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\bin\Debug\OWC10Chart.dll
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.XML
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\bin\Debug\FineUI.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\bin\Debug\Maticsoft.DBUtility.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\bin\Debug\OWC10Chart.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.XML
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\bin\Debug\FineUI.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\bin\Debug\Maticsoft.DBUtility.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\bin\Debug\OWC10Chart.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.XML
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\bin\Debug\FineUI.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\bin\Debug\Maticsoft.DBUtility.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\bin\Debug\OWC10Chart.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.XML
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\bin\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\bin\Debug\FineUI.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\bin\Debug\Maticsoft.DBUtility.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\bin\Debug\OWC10Chart.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\DotNet.Utilities\obj\Debug\DotNet.Utilities.csprojResolveAssemblyReference.cache

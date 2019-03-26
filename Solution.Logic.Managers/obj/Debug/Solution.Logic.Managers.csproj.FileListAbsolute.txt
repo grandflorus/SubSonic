@@ -1,0 +1,105 @@
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.dll.config
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.dll
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.pdb
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\FineUI.dll
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\Solution.DataAccess.dll
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\Maticsoft.DBUtility.dll
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.xml
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\Solution.DataAccess.pdb
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.xml
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.dll
+C:\Users\Administrator\Desktop\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.pdb
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.dll.config
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.pdb
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\FineUI.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\Solution.DataAccess.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\Maticsoft.DBUtility.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.xml
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\Solution.DataAccess.pdb
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.xml
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.dll
+C:\Users\Administrator\Desktop\预定系统\最新版本\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.dll.config
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\FineUI.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\Solution.DataAccess.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\Maticsoft.DBUtility.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.xml
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\Solution.DataAccess.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.xml
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.dll.config
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\FineUI.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\Solution.DataAccess.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\Maticsoft.DBUtility.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.xml
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\Solution.DataAccess.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.xml
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.pdb
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.dll.config
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\Solution.Logic.Managers.pdb
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\FineUI.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\Solution.DataAccess.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\Maticsoft.DBUtility.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.pdb
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\DotNet.Utilities.xml
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\Solution.DataAccess.pdb
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\bin\Debug\SubSonic.Core.xml
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\Solution.Logic.Managers\obj\Debug\Solution.Logic.Managers.pdb

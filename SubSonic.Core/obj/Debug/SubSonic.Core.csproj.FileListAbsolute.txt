@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\Solution\SubSonic.Core\bin\Debug\SubSonic.Core.XML
+C:\Users\Administrator\Desktop\Solution\SubSonic.Core\bin\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\Solution\SubSonic.Core\bin\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\Solution\SubSonic.Core\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\Solution\SubSonic.Core\obj\Debug\SubSonic.Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Solution\SubSonic.Core\obj\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\Solution\SubSonic.Core\obj\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\SubSonic.Core\bin\Debug\SubSonic.Core.XML
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\SubSonic.Core\bin\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\SubSonic.Core\bin\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\SubSonic.Core\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\SubSonic.Core\obj\Debug\SubSonic.Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\SubSonic.Core\obj\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本\Solution\SubSonic.Core\obj\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\SubSonic.Core\bin\Debug\SubSonic.Core.XML
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\SubSonic.Core\bin\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\SubSonic.Core\bin\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\SubSonic.Core\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\SubSonic.Core\obj\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\SubSonic.Core\obj\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\预定系统\后端最新版本 - 副本\Solution\SubSonic.Core\obj\Debug\SubSonic.Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\SubSonic.Core\bin\Debug\SubSonic.Core.XML
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\SubSonic.Core\bin\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\SubSonic.Core\bin\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\SubSonic.Core\bin\Debug\Castle.Core.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\SubSonic.Core\obj\Debug\SubSonic.Core.dll
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\SubSonic.Core\obj\Debug\SubSonic.Core.pdb
+C:\Users\Administrator\Desktop\预定系统\其他插件\AppBox\Solution\SubSonic.Core\obj\Debug\SubSonic.Core.csprojResolveAssemblyReference.cache
